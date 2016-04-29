@@ -1,4 +1,4 @@
-// Every todo has id, body and date added
+// Every todo has id and body
 app.service("localStorageService", function(){
 
   this.getTodos = function(){
